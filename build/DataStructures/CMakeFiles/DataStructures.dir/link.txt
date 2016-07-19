@@ -1,0 +1,2 @@
+/usr/bin/ar cr libDataStructures.a  CMakeFiles/DataStructures.dir/card.cpp.o CMakeFiles/DataStructures.dir/DCard.cpp.o CMakeFiles/DataStructures.dir/hand.cpp.o
+/usr/bin/ranlib libDataStructures.a
