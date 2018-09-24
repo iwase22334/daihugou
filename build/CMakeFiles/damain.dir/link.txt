@@ -1,1 +1,0 @@
-/usr/bin/c++       CMakeFiles/damain.dir/damain.cpp.o  -o damain -rdynamic DataStructures/libDataStructures.a 
